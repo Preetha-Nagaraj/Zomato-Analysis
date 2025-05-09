@@ -103,15 +103,12 @@ Scatter plot analysis shows a direct correlation between total order amounts and
 
 ![Image](https://github.com/user-attachments/assets/f418de42-efa8-4279-a100-8a666a762507)
 
-Visual	Description
-Pie Chart	City-wise order contribution
-Bar Chart	Sales by top restaurant brands
-Treemap	Revenue by area (regionally segmented)
-Scatter Plot	Correlation between order amount and order count
-Line Graph	Monthly order amount trend
-Map	Restaurant density across India
-Table	Restaurant-wise sales summary with AOV
 
+
+
+Snap for Zomato Analysis dashboard
+
+![Image](https://github.com/user-attachments/assets/e7536070-9479-47f4-9f4a-97c99fdaebb1)
 💡Recommendations 
 
 1.Focus on top cities like Bangalore and Chennai to boost revenue.
@@ -125,10 +122,6 @@ Table	Restaurant-wise sales summary with AOV
 5.Strengthen partnerships with top-selling restaurants.
 
 6.Use order and city trends to personalize marketing efforts.
-
-Snap for Zomato Analysis dashboard
-
-![Image](https://github.com/user-attachments/assets/e7536070-9479-47f4-9f4a-97c99fdaebb1)
 
 📌 Conclusion
 From the above dashboard, we can get a clear picture of Zomato’s restaurant performance across various cities in India. It highlights order distribution, revenue generation, average order values, and seasonal trends. The analysis gives insights into which cities and restaurants contribute the most to revenue, how customer behavior changes over time, and how geographic and demographic factors impact order patterns.
