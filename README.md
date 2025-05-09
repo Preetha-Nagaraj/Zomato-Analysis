@@ -67,10 +67,12 @@ Orders are almost evenly spread among top 10 Indian cities with a slight lead by
 ![Image](https://github.com/user-attachments/assets/ec12e582-7941-4cf3-91c5-158ff5cd9755)
 
 🏆 Top Restaurants by Sales
-snap for Top Restaurants by Sales 
-![Image](https://github.com/user-attachments/assets/f5bdaca0-419c-4285-9c27-9a50f5b22150)
 
 Street Food Hub and Royal Feast lead in total sales, each exceeding 640K.
+
+![Image](https://github.com/user-attachments/assets/f5bdaca0-419c-4285-9c27-9a50f5b22150)
+
+
 
 🧭 Top Areas by Restaurant Count
 
